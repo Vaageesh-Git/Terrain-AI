@@ -1,0 +1,21 @@
+{
+  "name": "terrain-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^8.7.2",
+    "boxen": "^8.0.1",
+    "chalk": "^6.0.0",
+    "cli-table3": "^0.6.5",
+    "figlet": "^1.11.4",
+    "ora": "^9.4.1"
+  }
+}
